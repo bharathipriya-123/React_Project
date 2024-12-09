@@ -1,0 +1,124 @@
+
+.job-board
+{
+    border:1px solid black;
+    border:none;
+    border-radius: 50px;
+    margin-left:200px;
+    margin-top: 60px;
+    width:90%;
+    height:75%;
+}
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  } */
+  
+  /* Header */
+  /* .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3f51b5;
+    color: white;
+    padding: 1rem 2rem;
+  } */
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+  }
+  
+  .post-job-btn {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+ 
+  .company-logos {
+    background: #f4f4f4;
+    padding: 1rem 2rem;
+    text-align: center;
+  }
+  
+  .logos img {
+    max-width: 100px;
+    margin: 0 1rem;
+  }
+  
+  
+  .job-listing {
+    display: flex;
+    /* padding: 2rem; */
+  }
+  
+  .filters {
+    flex: 1;
+    
+  }
+  
+  .filters h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .filters label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .clear-btn {
+    margin-top: 1rem;
+    background: #ff9800;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+
+   .job-cards {
+    flex: 3;
+  } 
+   
+  .job-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    /* padding: 1.5rem; */
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    width:800px;
+  }
+  
+  .job-info {
+    display: flex;
+    /* padding:20px; */
+  }
+  
+  .view-job-btn {
+    margin-top: 1rem;
+    background-color: #3f51b5;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .see-all-job
+  {
+    padding:12px 20px;
+    background-color: #4B6BFB;
+    color:#fff;
+    border-radius: 10px;
+    border:none;
+  }

@@ -1,0 +1,84 @@
+
+.job-card {
+  border: 1px solid #ddd;
+  background-color: white !important;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 80%;
+  height:280px;
+  margin-left:270px;
+}
+
+.job-card-header {
+  /* display: flex; */
+  align-items: center;
+}
+
+/* .company-logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 16px;
+} */
+
+.job-info h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.job-info p {
+  margin: 0;
+  color: #555;
+}
+
+.job-card-body p {
+  margin: 8px 0;
+  color: #333;
+}
+
+.job-description {
+  color:#02061799;
+  font: 16px;
+  font-style:sans-serif ;
+  margin:20px 0px 0px;
+}
+
+.view-job-button {
+  background-color:#E2E8F080 ;
+  color:#02061799;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 4px;
+  /* margin-top: 100px; */
+  margin-left:1020px;
+  /* margin-bottom:1550px; */
+ 
+}
+h3:hover{
+  
+  color:#E2E8F080 ;
+}
+
+.view-job-button:hover {
+  background-color: #005a9e;
+}
+.job-card1
+{
+  /* display:flex; */
+}
+.job-details
+{
+  display:inline-block;
+  margin-left:0px;
+}
+.job-details1
+{
+  display:inline-block;
+  margin-left:20px;
+}
+.job-details2
+{
+  display:inline-block;
+  margin-left:20px;
+}
